@@ -83,7 +83,7 @@ const SearchLocation = ({ setLat, setLong, location, setLocation }: setLatLng) =
           ring-1 hover:ring-2 ring-blue-950 transition-all"
               onClick={handleSubmit}
             >
-              Submit
+              Confrim
             </button>
           </div>
           {suggestions.length > 0 && (
